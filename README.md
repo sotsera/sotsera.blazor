@@ -2,7 +2,6 @@
 
 # sotsera.blazor
 
-
 A collection of components and utilities for Blazor applications.
 
 [![GitHub license](https://img.shields.io/github/license/sotsera/sotsera.blazor?style=flat-square)](LICENSE)
