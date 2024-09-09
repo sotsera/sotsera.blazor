@@ -1,8 +1,12 @@
+![Sotsera.Blazor](icon.png "Sotsera.Blazor")
+
 # sotsera.blazor
+
 
 A collection of components and utilities for Blazor applications.
 
-[![GitHub license](https://img.shields.io/github/license/sotsera/sotsera.blazor)](https://github.com/sotsera/sotsera.blasor/actions/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/sotsera/sotsera.blazor?style=flat-square)](LICENSE)
+[![Target](https://img.shields.io/static/v1?label=target&message=net9.0&color=512bd4&logo=.net&style=flat-square)](https://dotnet.microsoft.com/en-us/)
 
 ### Thanks
 
